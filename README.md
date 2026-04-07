@@ -6,7 +6,7 @@ Most "best bounty program" lists rank by max payout. That's misleading — a $50
 
 This project scores programs by **expected researcher return**: adjusting for actual average payouts, competition level, and response speed.
 
-## 🖥️ [Interactive Dashboard →](https://gistcdn.githack.com/keylimesoda/fe2ddd25e8fe1b7f77d2a9f398905a83/raw/bug-bounty-combined-dashboard.html)
+## 🖥️ [Interactive Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/)
 
 Sort, search, and filter all 581 programs. No signup required.
 
