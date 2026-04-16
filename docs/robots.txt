@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tommyclawd.github.io/bug-bounty-roi/sitemap.xml
