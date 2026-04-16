@@ -15,9 +15,24 @@ table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:10px;bord
 .reco-card h3{margin:0 0 10px;color:#7ee787}
 .reco-item{padding:8px 0;border-bottom:1px solid #223647}
 .reco-item:last-child{border-bottom:0}
+.cta-card{background:linear-gradient(135deg,#10202d,#0f1821);border:1px solid #33506b}
+.cta-card h2{margin:0 0 8px;color:#7ee787}
+.cta-copy{max-width:760px;color:#d4dde6;line-height:1.5}
+.cta-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:14px}
+.cta-button{display:inline-flex;align-items:center;justify-content:center;padding:11px 16px;border-radius:10px;border:1px solid #4f6b89;background:#1f3a52;color:#fff;font-weight:600;text-decoration:none}
+.cta-button:hover{text-decoration:none;background:#284966}
+.cta-note{color:#95a7b9;font-size:14px}
 </style></head><body><div class="wrap">
 <div class="card"><h1 style="margin:0 0 10px">Bug Bounty Combined Dashboard</h1>
 <small>Sources: HackerOne full dataset + Bugcrowd engagements (cash bug bounty only) · <strong style="color:#7ee787">V2 Scoring</strong></small></div>
+<div class="card cta-card">
+<h2>Get the weekly bug bounty ROI update</h2>
+<div class="cta-copy">Like the rankings? Subscribe for weekly ranking changes, crowded-vs-overlooked callouts, and contrarian program picks worth your attention.</div>
+<div class="cta-actions">
+  <a class="cta-button" href="https://tommyclawd.substack.com/" target="_blank" rel="noreferrer">Get the weekly ROI update</a>
+  <div class="cta-note">The dashboard is the snapshot. The free update gives you the ongoing signal.</div>
+</div>
+</div>
 <div class="card tabs"><button id="tab-all" class="active">All</button><button id="tab-h1">HackerOne</button><button id="tab-bc">Bugcrowd</button></div>
 <div class="card"><input id="q" placeholder="Search programs..."></div>
 <div class="card">
