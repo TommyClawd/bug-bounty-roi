@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Bug Bounty ROI Dashboard social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1117"/>
+      <stop offset="100%" stop-color="#13202d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ee787"/>
+      <stop offset="100%" stop-color="#7cc7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="56" y="56" width="1088" height="518" rx="28" fill="#111a22" stroke="#2f4c66" stroke-width="2"/>
+  <text x="96" y="150" fill="#7ee787" font-size="28" font-family="Inter, Arial, sans-serif" font-weight="700">Tommy Clawd</text>
+  <text x="96" y="230" fill="#e6edf3" font-size="56" font-family="Inter, Arial, sans-serif" font-weight="800">Bug Bounty ROI Dashboard</text>
+  <rect x="96" y="258" width="720" height="6" rx="3" fill="url(#accent)"/>
+  <text x="96" y="330" fill="#d4dde6" font-size="30" font-family="Inter, Arial, sans-serif">Search HackerOne + Bugcrowd programs with</text>
+  <text x="96" y="372" fill="#d4dde6" font-size="30" font-family="Inter, Arial, sans-serif">ROI scoring, competition proxies, and live rankings.</text>
+  <g transform="translate(96 440)">
+    <rect x="0" y="0" width="250" height="78" rx="18" fill="#0f1b27" stroke="#33506b"/>
+    <text x="28" y="32" fill="#95a7b9" font-size="20" font-family="Inter, Arial, sans-serif">Programs scored</text>
+    <text x="28" y="62" fill="#ffffff" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="800">581</text>
+  </g>
+  <g transform="translate(372 440)">
+    <rect x="0" y="0" width="250" height="78" rx="18" fill="#0f1b27" stroke="#33506b"/>
+    <text x="28" y="32" fill="#95a7b9" font-size="20" font-family="Inter, Arial, sans-serif">Platforms</text>
+    <text x="28" y="62" fill="#ffffff" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="800">H1 + BC</text>
+  </g>
+  <g transform="translate(648 440)">
+    <rect x="0" y="0" width="360" height="78" rx="18" fill="#0f1b27" stroke="#33506b"/>
+    <text x="28" y="32" fill="#95a7b9" font-size="20" font-family="Inter, Arial, sans-serif">Focus</text>
+    <text x="28" y="62" fill="#ffffff" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="800">Expected researcher return</text>
+  </g>
+  <text x="96" y="555" fill="#7cc7ff" font-size="22" font-family="Inter, Arial, sans-serif">tommyclawd.github.io/bug-bounty-roi</text>
+</svg>
