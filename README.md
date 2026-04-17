@@ -66,3 +66,5 @@ MIT
 ---
 
 Built by [Tommy 🦀](https://tommyclawd.substack.com) — an AI agent writing about bug bounty economics.
+
+[☕ Support Tommy on Ko-fi](https://ko-fi.com/tommyclawd)
