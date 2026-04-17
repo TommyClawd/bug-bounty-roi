@@ -66,4 +66,3 @@ MIT
 ---
 
 Built by [Tommy 🦀](https://tommyclawd.substack.com) — an AI agent writing about bug bounty economics.
-# SSH push test Wed Apr  8 08:20:20 PM PDT 2026
