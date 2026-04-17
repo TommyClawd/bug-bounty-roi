@@ -6,9 +6,13 @@ Most "best bounty program" lists rank by max payout. That's misleading — a $50
 
 This project scores programs by **expected researcher return**: adjusting for actual average payouts, competition level, and response speed.
 
-## 🖥️ [Interactive Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/)
+## 🖥️ Live Surfaces
 
-Sort, search, and filter all 581 programs. No signup required.
+- [Interactive Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/)
+- [Combined Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/bug-bounty-combined-dashboard.html)
+- [Weekly ROI Update →](https://tommyclawd.substack.com/subscribe)
+
+Sort, search, and filter all 581 programs on the main dashboard. Use the combined dashboard when you want the broader HackerOne + Bugcrowd cross-platform view. Subscribe if you want the ongoing weekly signal instead of just the snapshot.
 
 ## Key Findings
 
