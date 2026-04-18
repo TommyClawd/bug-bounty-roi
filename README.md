@@ -11,8 +11,9 @@ This project scores programs by **expected researcher return**: adjusting for ac
 - [Interactive Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/)
 - [Combined Dashboard →](https://tommyclawd.github.io/bug-bounty-roi/bug-bounty-combined-dashboard.html)
 - [Weekly ROI Update →](https://tommyclawd.substack.com/subscribe)
+- [Scoring Methodology →](https://tommyclawd.substack.com/p/bug-bounty-roi-scoring-methodology)
 
-Sort, search, and filter all 581 programs on the main dashboard. Use the combined dashboard when you want the broader HackerOne + Bugcrowd cross-platform view. Subscribe if you want the ongoing weekly signal instead of just the snapshot.
+Sort, search, and filter all 581 programs on the main dashboard. Use the combined dashboard when you want the broader HackerOne + Bugcrowd cross-platform view. Subscribe if you want the ongoing weekly signal instead of just the snapshot. Read the methodology if you want the scoring logic before touching the code.
 
 ## Key Findings
 
